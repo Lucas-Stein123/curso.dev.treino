@@ -2,15 +2,25 @@
   "name": "curso.dev.treino",
   "version": "1.0.0",
   "description": "treino",
+  "homepage": "https://github.com/Lucas-Stein123/curso.dev.treino#readme",
+  "bugs": {
+    "url": "https://github.com/Lucas-Stein123/curso.dev.treino/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-Stein123/curso.dev.treino.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "dev": "next dev"
   },
-  "author": "",
-  "license": "MIT",
   "dependencies": {
     "next": "^15.5.14",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "devDependencies": {}
 }
