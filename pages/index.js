@@ -1,3 +1,5 @@
-export default function Home() {
-  return <h1>Olá</h1>;
+function Home() {
+  return <h1>Olá, teste do curso.dev</h1>;
 }
+
+export default Home;
